@@ -4,3 +4,4 @@ source "https://rubygems.org"
 gemspec
 
 gem 'rails-controller-testing', group: :test
+gem 'shopify_api', github: 'Shopify/shopify_api', branch: 'session-implements-equality'
